@@ -1,8 +1,15 @@
-table{border: solid black 1px;
-    border-collapse: collapse;
+table {
+  border: solid black 1px;
+  border-collapse: collapse;
 }
-th{background-color: blueviolet;}
+th {
+  background-color: blueviolet;
+}
 
-td{border: solid black;}
+td {
+  border: solid black;
+}
 
-..col1{background-color: blue;}
+.col1 {
+  background-color: blue;
+}

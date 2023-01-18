@@ -1,0 +1,8 @@
+table{border: solid black 1px;
+    border-collapse: collapse;
+}
+th{background-color: blueviolet;}
+
+td{border: solid black;}
+
+..col1{background-color: blue;}

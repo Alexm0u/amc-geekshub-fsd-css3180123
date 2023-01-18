@@ -1,0 +1,8 @@
+.alinear-flex{
+    display: flex;
+    justify-content: center; ¡important
+    position: fixed
+}
+
+tr{background-color: aquamarine;}
+td{background-color: aquamarine;}
